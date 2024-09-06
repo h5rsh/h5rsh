@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A developer from the sphere of entertainment!</h3>
-<img src="https://private-user-images.githubusercontent.com/132205558/346613259-9e9cde9e-5603-4dd4-8809-8dfef61c6416.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUzMDY3NjAsIm5iZiI6MTcyNTMwNjQ2MCwicGF0aCI6Ii8xMzIyMDU1NTgvMzQ2NjEzMjU5LTllOWNkZTllLTU2MDMtNGRkNC04ODA5LThkZmVmNjFjNjQxNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkwMlQxOTQ3NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNzliYTg4N2Q2ZjQzNTRkN2YzOTM4ODI1ODUwMjFlNWU4ZWI2NzdjMTJkMmRmMWM1YjM0MmY4OGZkOGViOWJiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.pFePF4uKGwZZaXdPL2OnKGWTOa0sE-75VxtRW6Ih8aA" align="center" alt="coding"  />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmthYms1emVsN3AzMW81bnFzOWtuN2hjaHc1eWJiaDFpY2loazA5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT0xeJpnrWC4XWblEk/giphy-downsized-large.gif" align="center" alt="coding"  />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanasheesh&label=Profile%20views&color=0e75b6&style=flat" alt="nanasheesh" /> </p>
 
