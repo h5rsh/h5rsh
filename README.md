@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A developer from the sphere of entertainment!</h3>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY3MGo1MmFndXluc252dHpkbjY1aGtsZnI1YnF2MTltNTRwOW9pMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvQe7YwEEJoaIluvs6/giphy.gif" align="center" alt="coding"  />
+
+<div style="display:flex; justify-content:center;">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmY3MGo1MmFndXluc252dHpkbjY1aGtsZnI1YnF2MTltNTRwOW9pMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lvQe7YwEEJoaIluvs6/giphy.gif" align="center" alt="coding"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nanasheesh&label=Profile%20views&color=0e75b6&style=flat" alt="nanasheesh" /> </p>
 
