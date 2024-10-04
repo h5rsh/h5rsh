@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh</h1>
+<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px" height="30px">, I'm Harsh</h1>
 <h3 align="center">A developer from the sphere of entertainment!</h3>
 
 <div style="display:flex; justify-content:center;">
